@@ -10,20 +10,28 @@
   <lastmod>2019-01-23T21:56:00Z</lastmod>
  </url>
  <url>
-  <loc>https://johncoughlan.github.io/2019/</loc>
-  <lastmod>2019-01-23T21:56:00Z</lastmod>
- </url>
- <url>
   <loc>https://johncoughlan.github.io/archive.html</loc>
-  <lastmod>2019-01-23T22:03:00Z</lastmod>
+  <lastmod>2019-02-16T20:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://johncoughlan.github.io/categories/</loc>
-  <lastmod>2019-01-23T21:56:00Z</lastmod>
+  <lastmod>2019-02-16T20:24:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://johncoughlan.github.io/categories/economic-indicators/</loc>
+  <lastmod>2019-02-16T20:24:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://johncoughlan.github.io/categories/pandas/</loc>
+  <lastmod>2019-02-16T20:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://johncoughlan.github.io/categories/python/</loc>
   <lastmod>2019-01-23T21:56:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://johncoughlan.github.io/categories/st-louis-fred-api/</loc>
+  <lastmod>2019-02-16T20:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://johncoughlan.github.io/categories/stock-market-data/</loc>
@@ -48,5 +56,9 @@
  <url>
   <loc>https://johncoughlan.github.io/posts/Scraping-SP500-companies-wikipedia/</loc>
   <lastmod>2019-01-23T22:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://johncoughlan.github.io/posts/economic-indicator-basics-series-intro/</loc>
+  <lastmod>2019-02-16T20:24:00Z</lastmod>
  </url>
 </urlset>
