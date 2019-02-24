@@ -7,19 +7,23 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://johncoughlan.github.io/categories/economic-indicators.xml</loc>
-  <lastmod>2019-02-16T20:24:00Z</lastmod>
+  <lastmod>2019-02-24T17:15:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://johncoughlan.github.io/categories/gdp.xml</loc>
+  <lastmod>2019-02-24T17:15:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://johncoughlan.github.io/categories/pandas.xml</loc>
-  <lastmod>2019-02-16T20:24:00Z</lastmod>
+  <lastmod>2019-02-24T17:15:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://johncoughlan.github.io/categories/python.xml</loc>
-  <lastmod>2019-02-16T20:24:00Z</lastmod>
+  <lastmod>2019-02-24T17:15:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://johncoughlan.github.io/categories/st-louis-fred-api.xml</loc>
-  <lastmod>2019-02-16T20:24:00Z</lastmod>
+  <lastmod>2019-02-24T17:15:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://johncoughlan.github.io/categories/stock-market-data.xml</loc>
@@ -35,10 +39,10 @@
  </sitemap>
  <sitemap>
   <loc>https://johncoughlan.github.io/rss.xml</loc>
-  <lastmod>2019-02-24T17:03:00Z</lastmod>
+  <lastmod>2019-02-24T17:15:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://johncoughlan.github.io/sitemap.xml</loc>
-  <lastmod>2019-02-24T17:03:00Z</lastmod>
+  <lastmod>2019-02-24T17:15:00Z</lastmod>
  </sitemap>
 </sitemapindex>
